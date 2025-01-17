@@ -1,5 +1,5 @@
 # Problem Statement: Efficient Log Retrieval from a Large File
-
+# Note the src folder locally is in .gitignore for avoiding git lfs.
 ## Background  
 
 You are tasked with developing a solution to efficiently extract logs from a large log file. The file is approximately **1 TB** in size and contains logs generated over multiple years. Each log entry starts with a timestamp, followed by the log level, and then the log message. Logs are generated almost equally every day.
